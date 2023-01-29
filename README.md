@@ -4,7 +4,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 https://learn-markdown.github.io/
 
-=======================================
+=======================================</br>
 HEADERS
 
 # H1
@@ -14,7 +14,7 @@ HEADERS
 ##### H5
 ###### H6
 
-=======================================
+=======================================</br>
 
 Alternatively, for H1 and H2, an underline-ish style:
 
@@ -24,7 +24,7 @@ Alt-H1
 Alt-H2
 ------
 
-=======================================
+=======================================</br>
 EMPHASIS
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
@@ -35,7 +35,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-=======================================
+=======================================</br>
 LISTS
 
 1. First ordered list item
@@ -55,7 +55,7 @@ LISTS
 - Or minuses
 + Or pluses
 
-=======================================
+=======================================</br>
 LINKS
 
 [I'm an inline-style link](https://www.google.com)
@@ -80,7 +80,7 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
-=======================================
+=======================================</br>
 IMAGES
 
 Here's our logo (hover to see the title text):
@@ -93,8 +93,8 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-=======================================
+=======================================</br>
 
-=======================================
-=======================================
-=======================================
+=======================================</br>
+=======================================</br>
+=======================================</br>
