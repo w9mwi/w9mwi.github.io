@@ -1,5 +1,5 @@
 # w9mwi.github.io
-# Comments are preceded with the # character.
+# Comments are preceded with the character.
 # They won't appear on the rendered web page.
 
 Github "Markdown" can be used in place of HTML to simplify
