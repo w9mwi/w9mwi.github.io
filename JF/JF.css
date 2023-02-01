@@ -5,8 +5,6 @@
   width: 50%;
 }
 
-<style>
-  .centerHeaders {
-    text-align: center;
-  }
-</style>
+h1 {
+  text-align: center;
+}
