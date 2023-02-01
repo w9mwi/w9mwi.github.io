@@ -1,6 +1,11 @@
-.center {
+.imageCenter {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.headerTitle {
+  text-align: center;
+  border: solid;
 }
