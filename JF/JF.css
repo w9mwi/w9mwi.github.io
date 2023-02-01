@@ -4,3 +4,9 @@
   margin-right: auto;
   width: 50%;
 }
+
+<style>
+  .centerHeaders {
+    text-align: center;
+  }
+</style>
