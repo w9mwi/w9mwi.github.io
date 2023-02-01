@@ -13,11 +13,13 @@
 }
 
 h1 {
-  color: blue;
-  font-size: 80px;
+  background-color: black;
+  color: yellow;
+  font-size: 70px;
 }
 
 h3 {
+  background-color: black;
   color: green;
-  font-size: 5px;
+  font-size: 20px;
 }
