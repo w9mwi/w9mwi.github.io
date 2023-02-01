@@ -8,12 +8,12 @@
 }
 
 .headerTitle {
-  style=color: #00FF;
   text-align: center;
 /*  border: solid;  */
 }
 
 h1 {
+  style=color: #00FF;
   font-size: 80px;
 }
 
