@@ -7,10 +7,12 @@
   width: 480px;
 }
 
+/*************
 .headerTitle {
   text-align: center;
-/*  border: solid;  */
+  border: solid;
 }
+
 
 h1 {
   background-color: blue;
@@ -23,3 +25,4 @@ h3 {
   color: yellow;
   font-size: 35px;
 }
+*************/
