@@ -6,3 +6,7 @@
   /* Set that same value here so the .jpg image is centered properly. */
   width: 480px;
 }
+
+.h4_padding {
+  bottom-padding: 70px;
+}
