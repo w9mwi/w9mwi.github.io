@@ -2,8 +2,8 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  /* In JF.html the .jpg file displayed is set to width="480".        */
-  /* Set that same value here so the .jpg image is centered properly. */
+  /* In JF.html the file named Joe_F--Somewhere_Out_There.jpg is set to width="480". */
+  /* Set that same value here so the .jpg image is centered properly.                */
   width: 480px;
 }
 
