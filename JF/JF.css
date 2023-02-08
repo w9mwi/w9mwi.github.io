@@ -5,7 +5,6 @@
   /* In JF.html the .jpg file displayed is set to width="480".        */
   /* Set that same value here so the .jpg image is centered properly. */
   width: 480px;
-  height: 640px;
 }
 
 .h4_padding {
