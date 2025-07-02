@@ -1,3 +1,10 @@
+For ANYONE to view this web page (without logging in), enter this URL:
+
+https://w9mwi.github.io/Temp/junk.txt
+https://w9mwi.github.io/Temp/junk.txt
+https://w9mwi.github.io/Temp/junk.txt
+
+
 INTERSTELLAR OBJECT DEFINITION
 ==============================
 An interstellar object is an object that (unlike planets, comets, and asteroids) is NOT gravitationally bound to the Sun, or any other star.  It's an object that originated from outside our solar system, and will likely never return to our solar system.  This can be determined based on the object's speed and trajectory.
