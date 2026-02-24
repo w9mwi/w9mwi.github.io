@@ -1,0 +1,52 @@
+WINDOWS 11 INSTALLATION INFORMATION
+===================================
+When installing Windows 11, enter the following
+personal and security information.
+
+1) Computer's Name: mswin
+                    mswin
+
+2) User's Name: tjb
+                tjb
+
+3) User's Password: 6manty58
+                    6manty58
+
+4) User's PIN: 8591
+               8591
+
+5) "Microsoft Account" information.
+   PHONE:  608-433-4248
+           608-433-4248
+   E-MAIL: w9mwi@yahoo.com
+           w9mwi@yahoo.com
+
+6) Security Questions to recover your password.
+   (Enter as you wish.  I will change these
+    questions/answers myself at a later time.)
+
+
+==========================================================
+==========================================================
+
+LINUX MINT INSTALLATION INFORMATION
+===================================
+Use the supplied USB thumb drive to install
+the Linux Mint operating system.
+
+Install the Linux Mint operating system on both
+of the 1 TB SSDs, so it uses RAID mirroring.
+
+When installing Linux Mint, enter the following
+identification information.
+
+1) Computer's Name: linux
+                    linux
+
+2) User's Name:     tjb
+                    tjb
+
+3) User's Password: 6manty58
+                    6manty58
+
+4) Multimedia Codecs: When prompted, choose to install the Multimedia Codecs.
