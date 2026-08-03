@@ -1,57 +1,44 @@
+Medical History Form
+====================
+https://drive.google.com/file/d/16N7PCD8Zw_E1JmWHs1nSa8FJy5rOzjz3/view
+https://drive.google.com/file/d/16N7PCD8Zw_E1JmWHs1nSa8FJy5rOzjz3/view
+https://drive.google.com/file/d/16N7PCD8Zw_E1JmWHs1nSa8FJy5rOzjz3/view
 
 
+Client Essential Eligibility Criteria
+=====================================
+https://drive.google.com/file/d/1MS8cqKaeuWqAueCaveOkqKsxNUaMZHs2/view
+https://drive.google.com/file/d/1MS8cqKaeuWqAueCaveOkqKsxNUaMZHs2/view
+https://drive.google.com/file/d/1MS8cqKaeuWqAueCaveOkqKsxNUaMZHs2/view
 
 
-WINDOWS 11 INSTALLATION INFORMATION
-===================================
-When installing Windows 11, enter the following
-personal and security information.
-
-1) Computer's Name: mswin
-                    mswin
-
-2) User's Name: tjb
-                tjb
-
-3) User's Password: 6manty58
-                    6manty58
-
-4) User's PIN: 8591
-               8591
-
-5) "Microsoft Account" information.
-   PHONE:  608-433-4248
-           608-433-4248
-   E-MAIL: w9mwi@yahoo.com
-           w9mwi@yahoo.com
-
-6) Security Questions to recover your password.
-   (Enter as you wish.  I will change these
-    questions/answers myself at a later time.)
+Participant Code of Conduct
+===========================
+https://drive.google.com/file/d/19-IGdmUnUfIfRgBHDIMNIvMUNvRecxRz/view
+https://drive.google.com/file/d/19-IGdmUnUfIfRgBHDIMNIvMUNvRecxRz/view
+https://drive.google.com/file/d/19-IGdmUnUfIfRgBHDIMNIvMUNvRecxRz/view
 
 
-==========================================================
-==========================================================
+Northland Collaborative - Participant Agreement
+===============================================\
+COURSE NAME: The Living Coast: Understanding the Apostles, August 15 - 21.
+COURSE NAME: The Living Coast: Understanding the Apostles, August 15 - 21.
+COURSE NAME: The Living Coast: Understanding the Apostles, August 15 - 21.
 
-LINUX MINT INSTALLATION INFORMATION
-===================================
-USE THE SUPPLIED USB THUMB DRIVE TO INSTALL
-THE LINUX MINT OPERATING SSTEM.
+https://drive.google.com/file/d/1V92CM-WKMbbgWYs1p0muY-mrMAX6I9Os/view
+https://drive.google.com/file/d/1V92CM-WKMbbgWYs1p0muY-mrMAX6I9Os/view
+https://drive.google.com/file/d/1V92CM-WKMbbgWYs1p0muY-mrMAX6I9Os/view
 
-Install the Linux Mint operating system on both
-of the 1 TB SSDs, so it uses RAID mirroring.
 
-When installing Linux Mint, enter the following
-identification information.
+PACKING LIST
+============
+https://drive.google.com/file/d/1CEoPRk6KSZN9oivq0mV5ugY3rp7E9DYc/view
+https://drive.google.com/file/d/1CEoPRk6KSZN9oivq0mV5ugY3rp7E9DYc/view
+https://drive.google.com/file/d/1CEoPRk6KSZN9oivq0mV5ugY3rp7E9DYc/view
 
-1) Computer's Name: linux
-                    linux
 
-2) User's Name:     tjb
-                    tjb
-
-3) User's Password: 6manty58
-                    6manty58
-
-4) Multimedia Codecs: When prompted, choose
-   to install the Multimedia Codecs.
+SAILBOAT PHOTOS
+===============
+https://allhandssailing.org/the-fleet/#raptor
+https://allhandssailing.org/the-fleet/#raptor
+https://allhandssailing.org/the-fleet/#raptor
